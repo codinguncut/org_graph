@@ -1,0 +1,7 @@
+jupyter
+pandas
+networkx
+matplotlib
+numpy
+seaborn
+pip-tools
